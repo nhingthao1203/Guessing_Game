@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="poi-src-5.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/osgi/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/osgi/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/main/ruby/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/poi-ant-contrib/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-integration/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-ooxml-lite-agent/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-ooxml/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-ooxml/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-scratchpad/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi-scratchpad/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/poi-src-5.2.3-20220909/poi-src-5.2.3-20220909-5.2.3/poi/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
